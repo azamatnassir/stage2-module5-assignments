@@ -34,7 +34,7 @@ public class LocalProcessor {
         this.stringArrayList = stringArrayList;
     }
 
-    private LocalProcessor() {
+    public LocalProcessor() {
     }
 
     @ListIteratorAnnotation
